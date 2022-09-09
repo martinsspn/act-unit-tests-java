@@ -1,0 +1,10 @@
+br\ufrn\imd\repositories\DocumentStoreHolder$DocumentStoreContainer.class
+br\ufrn\imd\services\ComplianceApi.class
+br\ufrn\imd\Main.class
+br\ufrn\imd\models\BankAccount.class
+br\ufrn\imd\services\BankService.class
+br\ufrn\imd\services\ComplianceApiImpl.class
+br\ufrn\imd\repositories\BankAccountRepository.class
+br\ufrn\imd\repositories\DocumentStoreHolder.class
+br\ufrn\imd\models\BankAccountResult.class
+br\ufrn\imd\repositories\Repository.class

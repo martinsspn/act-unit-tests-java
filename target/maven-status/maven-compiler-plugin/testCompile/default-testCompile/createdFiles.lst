@@ -1,0 +1,6 @@
+br\ufrn\imd\models\BankAccountTestFixture.class
+br\ufrn\imd\services\BankAccountRepositoryTests.class
+br\ufrn\imd\services\ComplianceApiTests.class
+br\ufrn\imd\services\BankServiceTests.class
+br\ufrn\imd\models\BankAccountStepdefs.class
+br\ufrn\imd\models\BankAccountTest.class

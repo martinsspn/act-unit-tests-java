@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: br.ufrn.imd.models.BankAccountTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.013 sec <<< FAILURE!
+br.ufrn.imd.models.BankAccountTest.testBankAccountShouldHaveAccountNumberAndAgency()  Time elapsed: 0.013 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "br.ufrn.imd.models.BankAccount.getAccountNumber()" because "this.bankAccount" is null
+	at br.ufrn.imd.models.BankAccountTest.testBankAccountShouldHaveAccountNumberAndAgency(BankAccountTest.java:26)
+
+br.ufrn.imd.models.BankAccountTest.testDepositShouldChangeTheBalance()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "br.ufrn.imd.models.BankAccount.deposit(double)" because "this.bankAccount" is null
+	at br.ufrn.imd.models.BankAccountTest.testDepositShouldChangeTheBalance(BankAccountTest.java:32)
+
